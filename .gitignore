@@ -26,3 +26,4 @@ __pycache__/
 OpenConflictExtractor 
 tg-etl/telegram_app_config_29116378.txt
 tg-etl/data/backup
+.env
